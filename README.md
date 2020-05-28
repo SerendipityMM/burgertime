@@ -1,6 +1,9 @@
 # burgertime
  (Node, Express, Handlebars)
 
+ ## Layout
+![Screen Shot 2020-05-28 at 5 37 31 PM](https://user-images.githubusercontent.com/55516592/83204812-fb3bcf80-a109-11ea-8286-af90efe0ad9f.png)
+
 ## Application Heroku Link
 The link below will give you direct access to OrderBgr web application using your web browser via the Heroku web service. (NOTE: There will be a momentary delay when first accessing the Heroku servers.
 
@@ -31,5 +34,9 @@ node server.js
 - path NPM Package - [https://www.npmjs.com/package/path](https://www.npmjs.com/package/path)
 
 
-## Layout
-![Screen Shot 2020-05-28 at 5 37 31 PM](https://user-images.githubusercontent.com/55516592/83204812-fb3bcf80-a109-11ea-8286-af90efe0ad9f.png)
+
+
+
+
+
+
