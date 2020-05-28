@@ -3,6 +3,9 @@
   "version": "1.0.0", 
   "description": "Node Express App",
   "main": "server.js",
+  "engines": {
+    "node": "12.17.0"
+  },
   "scripts": {
     "start":"server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
