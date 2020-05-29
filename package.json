@@ -4,7 +4,8 @@
   "description": "Node Express App",
   "main": "server.js",
   "engines": {
-    "node": "12.17.0"
+    "node": "12.17.0",
+    "npm": "6.14.4"
   },
   "scripts": {
     "start": "node server.js",
