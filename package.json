@@ -12,10 +12,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/SerendipityMM/burgertime"
+    "url": "git+https://github.com/SerendipityMM/burgertime.git"
   },
   "author": "Mihneva",
   "license": "ISC",
+  "homepage": "https://github.com/SerendipityMM/burgertime/blob/master/README.md",
   "dependencies": {
     "express": "^4.17.1",
     "express-handlebars": "^4.0.4",
